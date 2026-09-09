@@ -1,97 +1,49 @@
 <div align="center">
 
-<img
-width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Frontend%20Developer&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=Astro%20%E2%80%A2%20Web%20Performance%20%E2%80%A2%20UI&descAlignY=60"
-/>
+<img src="./assets/profile.gif" width="170" alt="Profile illustration" />
 
-<br />
+# Frontend Developer
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1200&center=true&vCenter=true&width=500&lines=Frontend+developer+focused+on+Astro.;Performance.+Accessibility.+Maintainability."
-alt="Typing animation"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=1200&color=3F87E1&center=true&vCenter=true&width=460&lines=Frontend+developer+focused+on+Astro.;Performance+%E2%80%A2+Accessibility+%E2%80%A2+SEO"
+  alt="Typing animation"
 />
 
 </div>
 
-<br />
+---
 
 ## About
 
 Frontend developer focused on **Astro** and modern web development.
 
-Currently interested in:
-
-* Astro
-* Frontend architecture
-* Web performance
-* Accessible interfaces
-* SEO
-
-<br />
+Interested in performance, accessibility, SEO, and maintainable frontend architecture.
 
 ## Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=astro,html,css,js,ts,git,github,vscode" alt="Tech stack" />
+  <img
+    src="https://skillicons.dev/icons?i=astro,html,css,js,ts,git,github,vscode&theme=dark"
+    alt="Tech stack"
+  />
 </p>
 
-<br />
+## GitHub
 
-## Selected Work
-
-<table>
-<tr>
-<td width="50%">
-
-### Project Name
-
-<img src="./assets/project-1.webp" width="100%" alt="Project preview" />
-
-Short description of the project.
-
-`Astro` `TypeScript` `CSS`
-
-</td>
-
-<td width="50%">
-
-### Project Name
-
-<img src="./assets/project-2.webp" width="100%" alt="Project preview" />
-
-Short description of the project.
-
-`Astro` `JavaScript` `SEO`
-
-</td>
-</tr>
-</table>
-
-<br />
-
-## Activity
+<p align="center">
+  <img
+    height="155"
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=A68E95&icon_color=3F87E1&ring_color=194794"
+    alt="GitHub stats"
+  />
+</p>
 
 <div align="center">
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&hide_border=true"
-height="150"
-alt="GitHub statistics"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true"
-height="150"
-alt="Most used languages"
-/>
-
-</div>
-
-<br />
-
-<div align="center">
-
-<sub>Astro enthusiast · Frontend developer</sub>
+<sub>
+  <code>Astro</code> ·
+  <code>Frontend</code> ·
+  <code>Web Performance</code>
+</sub>
 
 </div>
