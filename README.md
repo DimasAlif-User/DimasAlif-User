@@ -1,49 +1,53 @@
 <div align="center">
 
-<img src="./assets/profile.gif" width="170" alt="Profile illustration" />
+<img src="./assets/header.svg" width="100%" alt="Animated frontend header" />
 
-# Frontend Developer
+<br />
+
+<img src="./assets/avatar.png" width="150" alt="Pixel character" />
+
+<br />
+
+### Frontend Developer
+
+<sub>
+primarily working with <b>Astro</b> · performance · accessibility · SEO
+</sub>
+
+<br /><br />
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=1200&color=3F87E1&center=true&vCenter=true&width=460&lines=Frontend+developer+focused+on+Astro.;Performance+%E2%80%A2+Accessibility+%E2%80%A2+SEO"
-  alt="Typing animation"
+  src="https://skillicons.dev/icons?i=astro,ts,js,html,css,git,github,vscode&theme=dark"
+  alt="Tech Stack"
 />
 
-</div>
+<br /><br />
+
+<code>ASTRO</code>
+&nbsp;·&nbsp;
+<code>FRONTEND</code>
+&nbsp;·&nbsp;
+<code>WEB PERFORMANCE</code>
+
+<br /><br />
 
 ---
 
-## About
+### activity.sys
 
-Frontend developer focused on **Astro** and modern web development.
+<img
+  src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=FFFFFF&icon_color=3F87E1&ring_color=3F87E1"
+  height="150"
+  alt="GitHub statistics"
+/>
 
-Interested in performance, accessibility, SEO, and maintainable frontend architecture.
-
-## Stack
-
-<p>
-  <img
-    src="https://skillicons.dev/icons?i=astro,html,css,js,ts,git,github,vscode&theme=dark"
-    alt="Tech stack"
-  />
-</p>
-
-## GitHub
-
-<p align="center">
-  <img
-    height="155"
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=A68E95&icon_color=3F87E1&ring_color=194794"
-    alt="GitHub stats"
-  />
-</p>
-
-<div align="center">
+<br />
 
 <sub>
-  <code>Astro</code> ·
-  <code>Frontend</code> ·
-  <code>Web Performance</code>
+<span>●</span> currently somewhere between
+<code>.astro</code>
+and
+<code>git commit</code>
 </sub>
 
 </div>
