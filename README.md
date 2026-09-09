@@ -1,10 +1,20 @@
 <div align="center">
 
-<img
-  src="./github-profile.svg"
-  width="100%"
-  alt="Dimas Muhammad Alif — Frontend developer / Astro"
-/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./github-profile-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./github-profile-light.svg"
+  />
+  <img
+    src="./github-profile-light.svg"
+    width="100%"
+    alt="Dimas Muhammad Alif — Frontend developer / Astro"
+  />
+</picture>
 
 <br /><br />
 
@@ -42,9 +52,10 @@ I care about clean structure, responsive interfaces, and maintainable code.
 
 ### Current Focus
 
-- Astro-first frontend development
-- Component Architecture
-- Performance Optimalization
+Improving frontend structure and delivery with **Astro**.
+
+- Component architecture
+- Web performance
 - Accessibility
 - Technical SEO
 
