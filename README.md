@@ -18,20 +18,14 @@
 
 <br /><br />
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://skillicons.dev/icons?i=astro,ts,js,react,laravel,bootstrap,py,html,css,git,github,vscode&theme=dark&perline=12"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://skillicons.dev/icons?i=astro,ts,js,react,laravel,bootstrap,py,html,css,git,github,vscode&theme=light&perline=12"
-  />
-  <img
-    src="https://skillicons.dev/icons?i=astro,ts,js,react,laravel,bootstrap,py,html,css,git,github,vscode&theme=light&perline=12"
-    alt="Tech Stack"
-  />
-</picture>
+<div align="center">
+
+<img
+  src="https://skillicons.dev/icons?i=astro,ts,js,react,laravel,bootstrap,py,html,css,git,github,vscode&perline=12"
+  alt="Tech Stack"
+/>
+
+</div>
 
 </div>
 
