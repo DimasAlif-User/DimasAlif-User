@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Animated frontend header" />
-
-<br />
-
-<img src="./assets/avatar.png" width="150" alt="Pixel character" />
+<img
+  src="./github-profile.svg"
+  width="100%"
+  alt="Dimas Muhammad Alif - Frontend Developer"
+/>
 
 <br />
 
@@ -17,7 +17,7 @@ primarily working with <b>Astro</b> · performance · accessibility · SEO
 <br /><br />
 
 <img
-  src="https://skillicons.dev/icons?i=astro,ts,js,html,css,git,github,vscode&theme=dark"
+  src="https://skillicons.dev/icons?i=astro,ts,js,react,laravel,bootstrap,py,html,css,git,github,vscode&theme=dark"
   alt="Tech Stack"
 />
 
