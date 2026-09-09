@@ -1,20 +1,10 @@
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./github-profile-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="./github-profile-light.svg"
-  />
-  <img
-    src="./github-profile-light.svg"
-    width="100%"
-    alt="Dimas Muhammad Alif — Frontend developer / Astro"
-  />
-</picture>
+<img
+  src="./github-profile.svg"
+  width="100%"
+  alt="Dimas Muhammad Alif — Frontend developer / Astro"
+/>
 
 <br /><br />
 
@@ -34,3 +24,30 @@
 </picture>
 
 </div>
+
+<br />
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+### About
+
+Frontend developer focused on **Astro** and modern web development.
+
+I care about clean structure, responsive interfaces, and maintainable code.
+
+   </td>
+    <td valign="top" width="50%">
+
+### Current Focus
+
+- Astro-first frontend development
+- Component Architecture
+- Performance Optimalization
+- Accessibility
+- Technical SEO
+
+   </td>
+  </tr>
+</table>
