@@ -37,9 +37,11 @@
 
 ### About
 
-Frontend developer focused on **Astro** and modern web development.
+I spend an unreasonable amount of time making websites feel simple.
 
-I care about clean structure, responsive interfaces, and maintainable code.
+Mostly Astro, frontend structure, performance, and whatever tiny detail decides to ruin my afternoon.
+
+Clean code is nice. Code I can still understand three months later is even nicer.
 
    </td>
     <td valign="top" width="50%">
